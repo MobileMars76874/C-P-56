@@ -1,0 +1,13 @@
+body{
+text-align: center;
+background-color: cyan;
+}
+
+img{
+width: 450px;
+height: 375px;
+}
+
+.section-style{
+display: inline-block;
+}
